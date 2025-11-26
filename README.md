@@ -1,4 +1,4 @@
-# Internship-journey
+# Smart Learning Portal
 
 This project is a full-stack application developed during an internship.
 
