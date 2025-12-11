@@ -1,4 +1,4 @@
-# Smart Learning Portal
+# <h1 align="center"> Smart Learning Portal </h1>
 
 This project is a full-stack application developed during an internship.
 
